@@ -1,4 +1,4 @@
-![![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+my+name+is+Yakov)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+my+name+is+Yakov)](https://git.io/typing-svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potapovjakov&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=potapovjakov&theme=github_dark)
