@@ -1,5 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+my+name+is+Yakov)](https://git.io/typing-svg)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potapovjakov&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=potapovjakov&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=potapovjakov&theme=github_dark)
 <!--
 **potapovjakov/potapovjakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
