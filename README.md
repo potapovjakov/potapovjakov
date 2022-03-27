@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+my+name+is+Yakov)](https://git.io/typing-svg)
 
 <!--
 **potapovjakov/potapovjakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
