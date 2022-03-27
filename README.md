@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+my+name+is+Yakov)](https://git.io/typing-svg)
+- 🌱 I’m currently learning:
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potapovjakov&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=potapovjakov&theme=github_dark)
-- 🌱 I’m currently learning:
-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 <!--
 **potapovjakov/potapovjakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
