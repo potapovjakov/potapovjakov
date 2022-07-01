@@ -11,6 +11,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potapovjakov&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=potapovjakov&theme=github_dark)
