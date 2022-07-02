@@ -17,9 +17,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potapovjakov&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=potapovjakov&theme=github_dark)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?potapovjakov=anuraghazra&repo=yamdb_final)](https://github.com/potapovjakov/yamdb_final)
+
 <!--
 **potapovjakov/potapovjakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?potapovjakov=anuraghazra&repo=yamdb_final)](https://github.com/potapovjakov/yamdb_final)
 
 Here are some ideas to get you started:
 
